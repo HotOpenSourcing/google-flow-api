@@ -1,6 +1,4 @@
 node_modules
-.vscode
-.env
 
 # Downloaded / generated media (results + local input frames you supply)
 *.mp4
@@ -16,3 +14,4 @@ _*.*
 # Pipeline run state (ugc-product-video)
 ugc_state.json
 ugc_errors.txt
+config.bat
